@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# venv / uv environments
+.venv/
+venv/
+
+# dotenv secrets
+.env
+
+# Playwright browsers
+playwright/
+ms-playwright/
+
+# OS files
+.DS_Store
+Thumbs.db

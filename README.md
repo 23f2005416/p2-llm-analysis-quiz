@@ -1,6 +1,4 @@
----
-title: LLM Analysis Quiz Solver
-# TDS LLM Analysis Quiz — Sohini’s Version
+# TDS LLM Analysis Quiz 
 
 ## 🚀 Project Overview
 
